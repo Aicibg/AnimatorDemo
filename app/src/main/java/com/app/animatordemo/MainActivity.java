@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View view) {
            //    paowuxian();
-           //    paowuxian1();
-               paowuxian2();
+                paowuxian1();
+             //  paowuxian2();
            }
        });
     }
